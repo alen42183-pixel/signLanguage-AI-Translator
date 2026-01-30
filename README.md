@@ -32,7 +32,7 @@ Open your terminal (Command Prompt) and run:
 ```bash
 git clone [https://github.com/YOUR-USERNAME/SignLanguage-AI-Translator.git](https://github.com/YOUR-USERNAME/SignLanguage-AI-Translator.git)
 cd SignLanguage-AI-Translator
-Step 2: Install Dependencies
+### Step 2: Install Dependencies
 pip install -r requirements.txt
-Step 3: Run the Application
+### Step 3: Run the Application
 python app.py
